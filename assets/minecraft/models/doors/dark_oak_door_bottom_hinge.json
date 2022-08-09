@@ -1,0 +1,34 @@
+{
+	"credit": "Created by Zetheon",
+	"ambientocclusion": false,
+	"textures": {
+		"1": "block/dark_oak_sides",
+		"particle": "block/dark_oak_door_bottom",
+		"bottom": "block/dark_oak_door_bottom"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [3, 16, 16],
+			"faces": {
+				"north": {"uv": [3, 0, 6, 16], "texture": "#1", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#bottom"},
+				"south": {"uv": [0, 0, 3, 16], "texture": "#1", "cullface": "south"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#bottom", "cullface": "west"},
+				"down": {"uv": [6, 16, 3, 0], "texture": "#1", "cullface": "down"}
+			}
+		},
+		{
+			"from": [-0.6, 15, 4],
+			"to": [3.6, 16, 5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 23, -3]},
+			"faces": {
+				"north": {"uv": [12, 0, 11, 1], "texture": "#bottom"},
+				"east": {"uv": [12, 0, 11, 1], "texture": "#bottom"},
+				"south": {"uv": [12, 0, 11, 1], "texture": "#bottom"},
+				"west": {"uv": [12, 0, 11, 1], "texture": "#bottom", "cullface": "west"},
+				"down": {"uv": [11, 1, 12, 0], "texture": "#bottom"}
+			}
+		}
+	]
+}

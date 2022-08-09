@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "doors/generic/generic_door_bottom",
+	"textures": {
+		"side": "block/oak_sides",
+		"bottom": "block/oak_door_bottom"
+	}
+}

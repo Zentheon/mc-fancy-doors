@@ -1,0 +1,136 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"2": "block/mangrove_door_bottom",
+		"particle": "block/mangrove_door_bottom",
+		"1_top": "block/mangrove_door_top",
+		"side": "block/mangrove_sides"
+	},
+	"elements": [
+		{
+			"from": [0, 16, 7],
+			"to": [16, 32, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1_top", "cullface": "west"},
+				"east": {"uv": [6, 0, 9, 16], "texture": "#side", "cullface": "north"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#1_top"},
+				"west": {"uv": [9, 0, 12, 16], "texture": "#side", "cullface": "south"},
+				"up": {"uv": [12, 0, 15, 16], "rotation": 90, "texture": "#side", "cullface": "up"}
+			}
+		},
+		{
+			"from": [2, 16, 6.5],
+			"to": [3, 19, 10.5],
+			"faces": {
+				"north": {"uv": [13, 15, 14, 16], "texture": "#1_top"},
+				"east": {"uv": [13, 15, 14, 16], "texture": "#1_top"},
+				"south": {"uv": [13, 15, 14, 16], "texture": "#1_top"},
+				"west": {"uv": [13, 15, 14, 16], "texture": "#1_top"},
+				"up": {"uv": [13, 15, 14, 16], "rotation": 90, "texture": "#1_top"},
+				"down": {"uv": [13, 15, 14, 16], "rotation": 270, "texture": "#1_top"}
+			}
+		},
+		{
+			"from": [3, 18, 6.5],
+			"to": [4, 19, 10.5],
+			"faces": {
+				"north": {"uv": [12, 13, 13, 14], "texture": "#1_top"},
+				"east": {"uv": [12, 13, 13, 14], "texture": "#1_top"},
+				"south": {"uv": [12, 13, 13, 14], "texture": "#1_top"},
+				"west": {"uv": [12, 13, 13, 14], "texture": "#1_top"},
+				"up": {"uv": [12, 13, 13, 14], "rotation": 90, "texture": "#1_top"},
+				"down": {"uv": [12, 13, 13, 14], "rotation": 270, "texture": "#1_top"}
+			}
+		},
+		{
+			"from": [0, 0, 7],
+			"to": [16, 16, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-21, 12, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#2", "cullface": "west"},
+				"east": {"uv": [0, 0, 3, 16], "texture": "#side", "cullface": "north"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#2", "cullface": "east"},
+				"west": {"uv": [3, 0, 6, 16], "texture": "#side", "cullface": "south"},
+				"down": {"uv": [9, 0, 12, 16], "rotation": 270, "texture": "#side", "cullface": "down"}
+			}
+		},
+		{
+			"from": [2, 13, 6.5],
+			"to": [3, 16, 10.5],
+			"faces": {
+				"north": {"uv": [13, 0, 14, 1], "texture": "#2", "cullface": "west"},
+				"east": {"uv": [13, 0, 14, 1], "texture": "#2"},
+				"south": {"uv": [13, 0, 14, 1], "texture": "#2"},
+				"west": {"uv": [13, 0, 14, 1], "texture": "#2"},
+				"down": {"uv": [13, 0, 14, 1], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"from": [3, 13, 6.5],
+			"to": [4, 14, 10.5],
+			"faces": {
+				"north": {"uv": [12, 2, 13, 3], "texture": "#2", "cullface": "west"},
+				"east": {"uv": [12, 2, 13, 3], "texture": "#2"},
+				"south": {"uv": [12, 2, 13, 3], "texture": "#2"},
+				"west": {"uv": [12, 2, 13, 3], "texture": "#2"},
+				"up": {"uv": [12, 2, 13, 3], "rotation": 90, "texture": "#2"},
+				"down": {"uv": [12, 2, 13, 3], "rotation": 270, "texture": "#2"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 0],
+			"translation": [-1, -6, 2.5],
+			"scale": [0.52, 0.52, 0.52]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, 0],
+			"translation": [-1.25, -6, 2.75],
+			"scale": [0.52, 0.52, 0.52]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -64, 0],
+			"translation": [0, -3.5, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -64, 0],
+			"translation": [0, -3.5, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [15, -135, 0],
+			"translation": [0, -3.5, 0],
+			"scale": [0.44, 0.44, 0.44]
+		},
+		"head": {
+			"rotation": [90, 0, 90],
+			"translation": [8, 8.5, 0]
+		},
+		"fixed": {
+			"translation": [0, -3.5, -0.5],
+			"scale": [0.42, 0.42, 0.42]
+		}
+	},
+	"groups": [
+		{
+			"name": "mangrove_door_top",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2]
+		},
+		{
+			"name": "mangrove_door_bottom",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [3, 4, 5]
+		}
+	]
+}
