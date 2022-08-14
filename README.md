@@ -1,11 +1,15 @@
-## Fancy Doors
+![Title](./title.png)
 
 Doors in minecraft look kind of ugly. That's why this pack exists! It improves a bunch of different things, including:
 
 > Proper rotations
+ 
 > Full 3D models for each door
+ 
 > Items that use same models as the blocks
+ 
 > Custom textures for door sides
+
 > Iron and Oak doors have revamped textures
  
 ## Links
