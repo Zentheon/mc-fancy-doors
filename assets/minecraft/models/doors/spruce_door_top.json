@@ -1,7 +1,0 @@
-{
-  "parent": "doors/generic/generic_door_top",
-  "textures": {
-    "side": "block/spruce_sides",
-    "top": "minecraft:block/spruce_door_top"
-  }
-}

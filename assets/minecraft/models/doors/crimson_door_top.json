@@ -1,7 +1,0 @@
-{
-  "parent": "doors/warped_door_top",
-  "textures": {
-    "side": "block/crimson_sides",
-    "top": "minecraft:block/crimson_door_top"
-  }
-}

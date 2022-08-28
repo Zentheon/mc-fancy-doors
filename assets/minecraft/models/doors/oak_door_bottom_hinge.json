@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "doors/generic/generic_door_bottom_hinge",
-	"textures": {
-		"side": "block/oak_sides",
-		"bottom": "block/oak_door_bottom"
-	}
-}

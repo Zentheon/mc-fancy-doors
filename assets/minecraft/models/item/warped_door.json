@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "doors/generic/generic_door_top",
 	"ambientocclusion": false,
 	"textures": {
 		"side": "block/warped_sides",

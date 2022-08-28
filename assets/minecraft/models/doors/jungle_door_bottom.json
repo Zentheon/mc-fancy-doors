@@ -1,7 +1,0 @@
-{
-  "parent": "doors/generic/generic_door_bottom",
-  "textures": {
-    "side": "block/jungle_sides",
-    "bottom": "minecraft:block/jungle_door_bottom"
-  }
-}

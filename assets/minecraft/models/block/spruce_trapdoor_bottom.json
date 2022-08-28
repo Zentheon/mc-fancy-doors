@@ -1,0 +1,61 @@
+{
+	"credit": "Made with Blockbench by Zetheon",
+	"textures": {
+		"particle": "block/spruce_trapdoor",
+		"main": "block/spruce_trapdoor"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 3, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -5, 8]},
+			"faces": {
+				"north": {"uv": [0, 13, 16, 16], "rotation": 180, "texture": "#main", "cullface": "north"},
+				"east": {"uv": [0, 0, 3, 16], "rotation": 90, "texture": "#main", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 3], "texture": "#main", "cullface": "south"},
+				"west": {"uv": [0, 0, 3, 16], "rotation": 270, "texture": "#main", "cullface": "west"},
+				"up": {"uv": [16, 0, 0, 16], "rotation": 180, "texture": "#main"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#main", "cullface": "down"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [70, -45, 0],
+			"translation": [0, 1.75, 2.25],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [70, -45, 0],
+			"translation": [0, 1.75, 2.25],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"firstperson_righthand": {
+			"rotation": [1, 43, 0],
+			"translation": [3, 3.5, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"firstperson_lefthand": {
+			"rotation": [1, 43, 0],
+			"translation": [3, 3.5, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.23, 0.23, 0.23]
+		},
+		"gui": {
+			"rotation": [35, 45, 0],
+			"translation": [0, 0.5, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"head": {
+			"translation": [0, 13, 0]
+		},
+		"fixed": {
+			"rotation": [89.5, 0, 0],
+			"translation": [0, 0, 5],
+			"scale": [0.75, 0.75, 0.75]
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench by Zetheon",
+	"textures": {
+		"0": "block/dark_oak_trapdoor",
+		"particle": "block/dark_oak_trapdoor"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 13],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [21, 21, 21]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#main", "cullface": "down"},
+				"east": {"uv": [6, 0, 9, 16], "rotation": 180, "texture": "#main", "cullface": "down"},
+				"south": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#main", "cullface": "down"},
+				"west": {"uv": [6, 0, 9, 16], "texture": "#main", "cullface": "down"},
+				"up": {"uv": [6, 0, 9, 16], "rotation": 90, "texture": "#main", "cullface": "down"},
+				"down": {"uv": [6, 0, 9, 16], "rotation": 270, "texture": "#main", "cullface": "down"}
+			}
+		}
+	]
+}

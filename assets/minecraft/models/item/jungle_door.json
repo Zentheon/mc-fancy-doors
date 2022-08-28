@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "doors/generic/generic_door_bottom",
 	"ambientocclusion": false,
 	"textures": {
 		"side": "block/jungle_sides",

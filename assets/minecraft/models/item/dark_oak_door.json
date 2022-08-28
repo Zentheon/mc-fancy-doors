@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "block/thin_block",
 	"ambientocclusion": false,
 	"textures": {
 		"1": "block/dark_oak_sides",
