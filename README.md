@@ -1,8 +1,4 @@
-![Title](./images/title.png)
-
-![Door preview](./images/doors.png)
-
-![Trapdoor preview](./images/trapdoors.png)
+![Title](./title.png)
 
 Doors in minecraft are kind of ugly. Their models are flat and boring, their textures look weird in some places and they don't even rotate correctly! How unprofessional.
 
