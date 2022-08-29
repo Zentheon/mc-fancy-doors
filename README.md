@@ -1,3 +1,7 @@
+## Note
+
+This branch is only compatible with Minecraft 1.9 to 1.12.2.
+
 ![Title](./title.png)
 
 Doors in minecraft are kind of ugly. Their models are flat and boring, their textures look weird in some places and they don't even rotate correctly! How unprofessional.
