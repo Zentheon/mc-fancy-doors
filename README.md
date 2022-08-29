@@ -17,6 +17,6 @@ That's why this pack exists! It aims to fix these issues and give doors fancy ad
 
 ## Usage
 
-You can use these assets however you want and post projects that include them them, with credit. Linking back to any official release pages is enough. ([Github](https://github.com/Xetheon/mc-fancy-doors), [Modrinth](https://modrinth.com/resourcepack/fancy-doors), [Curseforge](https://www.curseforge.com/minecraft/texture-packs/fancy-doors))
+You can use these assets however you want and post projects that include them as long as long as any of the following pages are linked to in descriptions. ([Github](https://github.com/Xetheon/mc-fancy-doors), [Modrinth](https://modrinth.com/resourcepack/fancy-doors), [Curseforge](https://www.curseforge.com/minecraft/texture-packs/fancy-doors))
 
-However, please don't rehost this pack directly. If you want to make a release page on another platform, redirect downloads to here or any other pages linked above.
+Please do not rehost this pack directly. If you want to make releases on other platforms, redirect downloads to any of the above links.
