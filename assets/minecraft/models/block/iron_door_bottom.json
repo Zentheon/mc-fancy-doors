@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench by Zetheon",
-	"ambientocclusion": false,
 	"textures": {
 		"1": "block/iron_sides",
 		"particle": "block/iron_sides",

@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench by Zetheon",
-	"ambientocclusion": false,
 	"textures": {
 		"particle": "block/warped_door_bottom",
 		"side": "block/warped_sides",

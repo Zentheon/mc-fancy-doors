@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench by Zetheon",
-	"ambientocclusion": false,
 	"textures": {
 		"1": "block/birch_sides",
 		"particle": "block/birch_trapdoor",

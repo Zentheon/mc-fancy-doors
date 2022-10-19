@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench by Zetheon",
-	"ambientocclusion": false,
 	"textures": {
 		"1": "block/dark_oak_sides",
 		"particle": "block/dark_oak_door_top",

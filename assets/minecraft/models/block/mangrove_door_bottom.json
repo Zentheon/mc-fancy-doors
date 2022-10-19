@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench by Zetheon",
-	"ambientocclusion": false,
 	"textures": {
 		"2": "block/mangrove_door_bottom",
 		"particle": "block/mangrove_door_bottom",
@@ -13,7 +12,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 12, 21]},
 			"faces": {
 				"north": {"uv": [0, 0, 3, 16], "texture": "#side", "cullface": "north"},
-				"east": {"uv": [16, 0, 0, 16], "texture": "#2", "cullface": "east"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#2"},
 				"south": {"uv": [3, 0, 6, 16], "texture": "#side", "cullface": "south"},
 				"west": {"uv": [0, 0, 16, 16], "texture": "#2", "cullface": "west"},
 				"down": {"uv": [9, 0, 12, 16], "texture": "#side", "cullface": "down"}

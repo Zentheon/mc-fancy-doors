@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench by Zetheon",
-	"ambientocclusion": false,
 	"textures": {
 		"particle": "block/jungle_door_bottom",
 		"side": "block/jungle_sides",

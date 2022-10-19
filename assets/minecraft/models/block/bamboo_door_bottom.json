@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench by Zetheon",
 	"textures": {
-		"1": "block/spruce_sides",
-		"particle": "block/spruce_door_bottom",
-		"bottom": "block/spruce_door_bottom"
+		"1": "block/bamboo_sides",
+		"particle": "block/bamboo_door_bottom",
+		"bottom": "block/bamboo_door_bottom"
 	},
 	"elements": [
 		{
