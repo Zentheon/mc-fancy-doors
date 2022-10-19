@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench by Zetheon",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"particle": "block/oak_trapdoor",
 		"main": "block/oak_trapdoor",
@@ -12,9 +12,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [11, -7, 8]},
 			"faces": {
 				"north": {"uv": [15, 13, 12, 3], "rotation": 90, "texture": "#side"},
-				"east": {"uv": [3, 3, 0, 0], "texture": "#missing"},
 				"south": {"uv": [6, 13, 3, 3], "rotation": 270, "texture": "#side", "cullface": "south"},
-				"west": {"uv": [3, 3, 0, 0], "texture": "#missing"},
 				"up": {"uv": [13, 13, 3, 16], "texture": "#main"},
 				"down": {"uv": [3, 13, 13, 16], "rotation": 180, "texture": "#main", "cullface": "down"}
 			}
@@ -50,9 +48,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [11, -5, -7]},
 			"faces": {
 				"north": {"uv": [12, 13, 9, 3], "rotation": 90, "texture": "#side", "cullface": "north"},
-				"east": {"uv": [3, 3, 0, 0], "texture": "#missing"},
 				"south": {"uv": [12, 16, 9, 6], "rotation": 90, "texture": "#side"},
-				"west": {"uv": [3, 3, 0, 0], "texture": "#missing"},
 				"up": {"uv": [13, 0, 3, 3], "texture": "#main"},
 				"down": {"uv": [3, 0, 13, 3], "rotation": 180, "texture": "#main", "cullface": "down"}
 			}
@@ -63,9 +59,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [-2, 8, 8]},
 			"faces": {
 				"north": {"uv": [15, 14, 12, 4], "rotation": 90, "texture": "#side"},
-				"east": {"uv": [3, 16, 0, 0], "rotation": 90, "texture": "#missing", "cullface": "east"},
 				"south": {"uv": [6, 16, 3, 6], "rotation": 90, "texture": "#side"},
-				"west": {"uv": [3, 16, 0, 0], "rotation": 90, "texture": "#missing", "cullface": "west"},
 				"up": {"uv": [13, 6, 3, 10], "texture": "#main"},
 				"down": {"uv": [3, 6, 13, 10], "rotation": 180, "texture": "#main", "cullface": "down"}
 			}
@@ -75,9 +69,7 @@
 			"to": [10, 3, 13],
 			"rotation": {"angle": 0, "axis": "y", "origin": [1, 8, 8]},
 			"faces": {
-				"north": {"uv": [16, 3, 0, 0], "rotation": 180, "texture": "#missing", "cullface": "south"},
 				"east": {"uv": [15, 12, 12, 2], "rotation": 90, "texture": "#side"},
-				"south": {"uv": [16, 3, 0, 0], "rotation": 180, "texture": "#missing", "cullface": "north"},
 				"west": {"uv": [12, 14, 9, 4], "rotation": 90, "texture": "#side"},
 				"up": {"uv": [10, 3, 6, 13], "texture": "#main"},
 				"down": {"uv": [6, 3, 10, 13], "rotation": 180, "texture": "#main", "cullface": "down"}

@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench by Zetheon",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"particle": "block/bamboo_trapdoor",
 		"main": "block/bamboo_trapdoor",
@@ -12,9 +12,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [11, 8, -7]},
 			"faces": {
 				"north": {"uv": [3, 13, 13, 16], "texture": "#main"},
-				"east": {"uv": [3, 3, 0, 0], "rotation": 270, "texture": "#missing"},
 				"south": {"uv": [13, 13, 3, 16], "texture": "#main", "cullface": "south"},
-				"west": {"uv": [3, 3, 0, 0], "rotation": 90, "texture": "#missing"},
 				"up": {"uv": [15, 13, 12, 3], "rotation": 270, "texture": "#side"},
 				"down": {"uv": [6, 13, 3, 3], "rotation": 270, "texture": "#side", "cullface": "down"}
 			}
@@ -51,9 +49,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [11, 23, -5]},
 			"faces": {
 				"north": {"uv": [3, 0, 13, 3], "texture": "#main"},
-				"east": {"uv": [3, 3, 0, 0], "rotation": 270, "texture": "#missing"},
 				"south": {"uv": [13, 0, 3, 3], "texture": "#main", "cullface": "south"},
-				"west": {"uv": [3, 3, 0, 0], "rotation": 90, "texture": "#missing"},
 				"up": {"uv": [12, 13, 9, 3], "rotation": 270, "texture": "#side", "cullface": "up"},
 				"down": {"uv": [12, 16, 9, 6], "rotation": 90, "texture": "#side"}
 			}
