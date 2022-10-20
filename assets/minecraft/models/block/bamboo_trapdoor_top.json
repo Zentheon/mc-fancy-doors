@@ -1,5 +1,6 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made with Blockbench by Zetheon",
+	"ambientocclusion": false,
 	"textures": {
 		"particle": "block/bamboo_trapdoor",
 		"main": "block/bamboo_trapdoor",
