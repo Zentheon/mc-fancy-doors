@@ -1,0 +1,131 @@
+{
+	"credit": "Made with Blockbench by Zentheon",
+	"textures": {
+		"side": "block/cherry_sides",
+		"particle": "block/cherry_trapdoor",
+		"main": "block/cherry_trapdoor"
+	},
+	"elements": [
+		{
+			"from": [4, 12, 13],
+			"to": [12, 16, 16],
+			"faces": {
+				"north": {"uv": [4, 12, 12, 16], "rotation": 180, "texture": "#main"},
+				"south": {"uv": [4, 12, 12, 16], "rotation": 180, "texture": "#main", "cullface": "south"},
+				"up": {"uv": [3, 4, 6, 12], "rotation": 270, "texture": "#side", "cullface": "up"},
+				"down": {"uv": [3, 4, 6, 12], "rotation": 90, "texture": "#side"}
+			}
+		},
+		{
+			"from": [4, 0, 13],
+			"to": [12, 4, 16],
+			"faces": {
+				"north": {"uv": [4, 0, 12, 4], "rotation": 180, "texture": "#main"},
+				"south": {"uv": [4, 0, 12, 4], "rotation": 180, "texture": "#main", "cullface": "south"},
+				"up": {"uv": [3, 7, 6, 15], "rotation": 270, "texture": "#side"},
+				"down": {"uv": [3, 4, 6, 12], "rotation": 90, "texture": "#side", "cullface": "down"}
+			}
+		},
+		{
+			"from": [0, 0, 13],
+			"to": [4, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 16], "rotation": 180, "texture": "#main"},
+				"east": {"uv": [12, 0, 15, 16], "rotation": 180, "texture": "#side"},
+				"south": {"uv": [12, 0, 16, 16], "rotation": 180, "texture": "#main", "cullface": "south"},
+				"west": {"uv": [9, 0, 12, 16], "texture": "#side", "cullface": "west"},
+				"up": {"uv": [9, 0, 12, 4], "rotation": 270, "texture": "#side", "cullface": "up"},
+				"down": {"uv": [9, 0, 12, 4], "rotation": 270, "texture": "#side", "cullface": "down"}
+			}
+		},
+		{
+			"from": [12, 0, 13],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [12, 0, 16, 16], "rotation": 180, "texture": "#main"},
+				"east": {"uv": [12, 0, 15, 16], "rotation": 180, "texture": "#side", "cullface": "east"},
+				"south": {"uv": [0, 0, 4, 16], "rotation": 180, "texture": "#main", "cullface": "south"},
+				"west": {"uv": [9, 0, 12, 16], "rotation": 180, "texture": "#side"},
+				"up": {"uv": [3, 12, 6, 16], "rotation": 270, "texture": "#side", "cullface": "up"},
+				"down": {"uv": [6, 0, 9, 4], "rotation": 90, "texture": "#side", "cullface": "down"}
+			}
+		},
+		{
+			"from": [4, 4, 15],
+			"to": [12, 12, 15],
+			"faces": {
+				"north": {"uv": [4, 4, 12, 12], "rotation": 180, "texture": "#main"},
+				"south": {"uv": [4, 4, 12, 12], "rotation": 180, "texture": "#main", "cullface": "south"}
+			}
+		},
+		{
+			"from": [4, 4, 14.5],
+			"to": [12, 12, 14.5],
+			"faces": {
+				"north": {"uv": [4, 4, 12, 12], "rotation": 180, "texture": "#main"},
+				"south": {"uv": [4, 4, 12, 12], "rotation": 180, "texture": "#main", "cullface": "south"}
+			}
+		},
+		{
+			"from": [4, 4, 14],
+			"to": [12, 12, 14],
+			"faces": {
+				"north": {"uv": [4, 4, 12, 12], "rotation": 180, "texture": "#main"},
+				"south": {"uv": [4, 4, 12, 12], "rotation": 180, "texture": "#main", "cullface": "south"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [70, -45, 0],
+			"translation": [0, 1.75, 2.25],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [70, -45, 0],
+			"translation": [0, 1.75, 2.25],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"firstperson_righthand": {
+			"rotation": [1, 43, 0],
+			"translation": [3, 3.5, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"firstperson_lefthand": {
+			"rotation": [1, 43, 0],
+			"translation": [3, 3.5, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.23, 0.23, 0.23]
+		},
+		"gui": {
+			"rotation": [35, 45, 0],
+			"translation": [0, 0.5, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"head": {
+			"translation": [0, 13, 0]
+		},
+		"fixed": {
+			"rotation": [89.5, 0, 0],
+			"translation": [0, 0, 5],
+			"scale": [0.75, 0.75, 0.75]
+		}
+	},
+	"groups": [
+		{
+			"name": "Base",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1, 2, 3]
+		},
+		{
+			"name": "Window",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [4, 5, 6]
+		}
+	]
+}

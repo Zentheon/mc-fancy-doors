@@ -1,0 +1,21 @@
+{
+	"credit": "Made with Blockbench by Zentheon",
+	"textures": {
+		"particle": "block/spruce_trapdoor",
+		"main": "block/spruce_trapdoor"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 13],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#main"},
+				"east": {"uv": [0, 0, 3, 16], "rotation": 180, "texture": "#main", "cullface": "east"},
+				"south": {"uv": [16, 0, 0, 16], "rotation": 180, "texture": "#main", "cullface": "south"},
+				"west": {"uv": [0, 0, 3, 16], "texture": "#main", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 3], "rotation": 180, "texture": "#main", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 3], "texture": "#main", "cullface": "down"}
+			}
+		}
+	]
+}

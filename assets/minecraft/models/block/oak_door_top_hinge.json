@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench by Zetheon",
+	"credit": "Made with Blockbench by Zentheon",
 	"textures": {
 		"side": "block/oak_sides",
 		"particle": "block/oak_door_top",
@@ -74,8 +74,8 @@
 			}
 		},
 		{
-			"from": [-0.6, 0.99906, 2.00008],
-			"to": [3.6, 1.99906, 5.00008],
+			"from": [-0.5, 0.99906, 2.00008],
+			"to": [3.5, 1.99906, 5.00008],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 16]},
 			"faces": {
 				"north": {"uv": [13, 14, 11, 15], "texture": "#top"},
@@ -87,8 +87,8 @@
 			}
 		},
 		{
-			"from": [-0.6, 0.00095, 4.00054],
-			"to": [3.6, 1.00095, 5.00054],
+			"from": [-0.5, 0.00095, 4.00054],
+			"to": [3.5, 1.00095, 5.00054],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 16]},
 			"faces": {
 				"north": {"uv": [12, 15, 11, 16], "texture": "#top"},

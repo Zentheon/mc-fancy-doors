@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench by Zetheon",
+	"credit": "Made with Blockbench by Zentheon",
 	"textures": {
 		"1": "block/iron_sides",
 		"particle": "block/iron_sides",
@@ -24,7 +24,7 @@
 			"to": [3, 16, 16],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 12, 21]},
 			"faces": {
-				"north": {"uv": [12, 1, 15, 14], "texture": "#1"},
+				"north": {"uv": [3, 0, 6, 13], "texture": "#1"},
 				"east": {"uv": [16, 0, 13, 13], "texture": "#bottom"},
 				"south": {"uv": [3, 0, 6, 13], "texture": "#1"},
 				"west": {"uv": [13, 0, 16, 13], "texture": "#bottom", "cullface": "west"}
@@ -46,7 +46,7 @@
 			"to": [3, 16, 11],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 11, 17]},
 			"faces": {
-				"north": {"uv": [6, 2, 9, 15], "texture": "#1"},
+				"north": {"uv": [9, 3, 12, 16], "texture": "#1"},
 				"east": {"uv": [11, 0, 9, 13], "texture": "#bottom"},
 				"south": {"uv": [3, 3, 6, 16], "texture": "#1"},
 				"west": {"uv": [9, 0, 11, 13], "texture": "#bottom", "cullface": "west"}
@@ -59,7 +59,7 @@
 			"faces": {
 				"north": {"uv": [0, 3, 3, 16], "texture": "#1"},
 				"east": {"uv": [7, 0, 5, 13], "texture": "#bottom"},
-				"south": {"uv": [9, 1, 12, 14], "texture": "#1"},
+				"south": {"uv": [9, 3, 12, 16], "texture": "#1"},
 				"west": {"uv": [5, 0, 7, 13], "texture": "#bottom", "cullface": "west"}
 			}
 		},

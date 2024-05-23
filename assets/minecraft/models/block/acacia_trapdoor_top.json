@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench by Zetheon",
+	"credit": "Made with Blockbench by Zentheon",
 	"textures": {
 		"2": "block/acacia_handle",
 		"side": "block/acacia_sides",
@@ -72,8 +72,8 @@
 			}
 		},
 		{
-			"from": [5, 12.5, 0.1],
-			"to": [11, 16.5, 2],
+			"from": [5, 12.5, 0.008],
+			"to": [11, 16.5, 2.008],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 6, 8]},
 			"faces": {
 				"north": {"uv": [0, 5, 6, 4], "rotation": 180, "texture": "#2"},

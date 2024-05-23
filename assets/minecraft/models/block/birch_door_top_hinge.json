@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench by Zetheon",
+	"credit": "Made with Blockbench by Zentheon",
 	"textures": {
 		"side": "block/birch_sides",
 		"particle": "block/birch_door_top",
@@ -47,8 +47,8 @@
 			}
 		},
 		{
-			"from": [-0.6, 0, 1],
-			"to": [3.6, 2, 2],
+			"from": [-0.5, 0, 1],
+			"to": [3.5, 2, 2],
 			"rotation": {"angle": 0, "axis": "y", "origin": [11, 8, -6]},
 			"faces": {
 				"north": {"uv": [15, 14, 14, 16], "texture": "#top"},

@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench by Zetheon",
+	"credit": "Made with Blockbench by Zentheon",
 	"textures": {
 		"1": "block/crimson_sides",
 		"particle": "block/crimson_sides",
@@ -72,7 +72,7 @@
 			"to": [13, 3, 7],
 			"rotation": {"angle": 0, "axis": "y", "origin": [20, 8, 13]},
 			"faces": {
-				"north": {"uv": [3, 10, 13, 13], "texture": "#main"},
+				"north": {"uv": [3, 9, 13, 12], "texture": "#main"},
 				"south": {"uv": [2, 9, 12, 12], "texture": "#main"},
 				"up": {"uv": [3, 9, 13, 12], "texture": "#main"},
 				"down": {"uv": [3, 9, 13, 12], "texture": "#main", "cullface": "down"}
