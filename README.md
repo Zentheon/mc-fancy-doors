@@ -1,5 +1,7 @@
 ![Title](./images/title.png)
 
+## About
+
 Doors in minecraft are kind of ugly. Their models are flat and boring, their textures look weird in some places and they don't even rotate correctly! How unprofessional.
 
 ~~That's why this pack exists! It aims to fix these issues and give doors fancy additions such as:~~
@@ -9,7 +11,7 @@ Descriptions are also boring. Here're a showcase instead!
 ![Iron & Oak Revamp Preview](./images/preview-iron-oak.gif)
 ![Doors Preview](./images/preview-doors.gif)
 ![Inventory Item Preview](./images/preview-inventory.gif)
-![Trapdoor Preview](./images/preview-inventory.gif)
+![Trapdoor Preview](./images/preview-trapdoors.gif)
 
 
 ## Install
